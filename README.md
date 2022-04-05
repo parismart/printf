@@ -1,2 +1,2 @@
 # ft_printf
-[![42Project Score](https://badge42.herokuapp.com/api/project/parmarti/ft_printf)](https://github.com/JaeSeoKim/badge42)
+[![parmarti's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1lvrz0z002109lhozldfih2/project/1935320)](https://github.com/JaeSeoKim/badge42)
